@@ -66,3 +66,13 @@ table {
 	padding: 0px 30px;
 	margin: 0px auto;
 }
+
+/*
+==========================
+Typography
+========================== 
+*/
+
+h1, h3, h4, h5, p {
+	margin-bottom: 22px;
+}
