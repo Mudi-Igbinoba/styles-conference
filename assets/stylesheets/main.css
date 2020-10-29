@@ -135,3 +135,17 @@ Primary header
 	padding-bottom: 22px;
 	float: left;
 }
+
+/*
+===========================
+Primary footer
+=========================== 
+*/
+
+.primary-footer small {
+	float: left;
+}
+
+.primary-footer {
+	padding: 44px 0;
+}
